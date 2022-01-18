@@ -1,0 +1,5 @@
+game application
+chat display
+3d view
+character building
+help option
